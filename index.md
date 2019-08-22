@@ -12,7 +12,7 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 
 <div id="webaddress">
   <a href="http://www.raubap.pw"><i class="fas fa-home"></i> www.raubap.pw</a> - 
-  <a href="http://www.raubap.pw/blog"><i class="fas fa-rss-square"></i> blog (placeholder)</a> - 
+  <span id="ghbutton"><a href="http://www.raubap.pw/blog"><i class="fas fa-rss-square"></i> blog (placeholder)</a> - </span>
   <a href="https://github.com/tvhung83"><i class="fab fa-github"></i> tvhung83</a><span id="ghbutton"> - 
   <a href="http://www.raubap.pw/markdown-cv/download/resume.pdf"><i class="fas fa-file-pdf"></i> PDF version</a></span><!--  - 
   <a href="https://twitter.com/tvhung83"><i class="fab fa-twitter"></i> @tvhung83</a> -->
@@ -120,7 +120,7 @@ Create **Handy Community**, the first community of user-generated contents for m
 
 **Ian Morrison**, *Engineer Manager, Founder of GKxIM Vietnam*
 
-**Phan Cong Thanh**, *CEO & Founder, Head of Atlassian Vietnam, CEO of EgoPulse*
+**Phan Cong Thanh**, *Head of Atlassian Vietnam, CEO of EgoPulse*
 
 ## Awards and honors
 
