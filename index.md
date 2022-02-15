@@ -36,7 +36,7 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 ## Experience
 
 `2019-present`
-**Senior Software Engineer**, *FabFitFun*, Los Angeles, CA (remote).
+**Principal Software Engineer**, *FabFitFun*, Los Angeles, CA (remote).
 
 `2016-2019`
 **Senior Software Engineer, Tech Lead**, *Arm Treasure Data*, Mountain View, CA (remote).
