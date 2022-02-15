@@ -5,16 +5,16 @@ title: Hung Nguyen's CV
 # Nguyen Viet Hung
 Senior Software Developer
 
-172/32 Le Thuc Hoach, Tan Quy Ward<br/>
+Le Thuc Hoach, Tan Quy Ward<br/>
 Tan Phu Dist, HCMC, Vietnam<br/>
 
 <i class="fas fa-inbox"></i> <a href="mailto:ng.hung83@gmail.com">ng.hung83@gmail.com</a> \| <i class="fas fa-mobile"></i> +84 913 977 511
 
 <div id="webaddress">
-  <a href="http://www.raubap.pw"><i class="fas fa-home"></i> www.raubap.pw</a> - 
-  <span id="ghbutton"><a href="http://www.raubap.pw/blog"><i class="fas fa-rss-square"></i> blog (placeholder)</a> - </span>
+  <a href="https://rau.us.to"><i class="fas fa-home"></i> rau.us.to</a> - 
+  <span id="ghbutton"><a href="https://rau.us.to/blog"><i class="fas fa-rss-square"></i> blog (placeholder)</a> - </span>
   <a href="https://github.com/tvhung83"><i class="fab fa-github"></i> tvhung83</a><span id="ghbutton"> - 
-  <a href="http://www.raubap.pw/markdown-cv/download/resume.pdf"><i class="fas fa-file-pdf"></i> PDF version</a></span><!--  - 
+  <a href="https://rau.us.to/markdown-cv/download/resume.pdf"><i class="fas fa-file-pdf"></i> PDF version</a></span><!--  - 
   <a href="https://twitter.com/tvhung83"><i class="fab fa-twitter"></i> @tvhung83</a> -->
 </div>
 
@@ -28,14 +28,17 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 
 ## Technical Skills
 - &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i> Java core
-- &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i> Backend languages: Go, Python, Ruby
+- &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i> Backend languages: Go, Python, Ruby
 - &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i> REST APIs: Facebook, Google, Tableau
 - &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="far fa-star"></i> DevOps: Linux, AWS, Heroku
 - &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i>  &nbsp;&nbsp;&nbsp; <i class="fas fa-star"></i> Troubleshoot and investigate
 
 ## Experience
 
-`2016-present`
+`2019-present`
+**Senior Software Engineer**, *FabFitFun*, Los Angeles, CA (remote).
+
+`2016-2019`
 **Senior Software Engineer, Tech Lead**, *Arm Treasure Data*, Mountain View, CA (remote).
 
 `2015-2016`
@@ -60,10 +63,21 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 **Developer, Senior Developer, Team Leader**, *Mobile Solution Services., Ltd*, HCMC, Vietnam.
 
 ## Responsibilities
+Develop **Kafka-based apps** to consume moderate traffic of events.
+
+Maintain **REST APIs** with fairly complicated ecommerce business logic.
+
+**Participate** in product design.
+
+**Monitor** production environment and jump in when issues arise.
+
+Develop a Java-based cronjob tool, powered by **[JobRunr](https://www.jobrunr.io/)**, combining with Guice, for a clean & decoupled design.
+
+### Treasure Data
 Build **Data Connector** to integrate with hundreds of platforms, from Marketing services like Facebook Ads, Google Ads, to Data platforms, such as Tableau and Microsoft PowerBI.
 - \- Develop [Embulk](https://embulk.org) plugins in Java and Ruby.
 
-**Participate** in product design. **Train** newbies and junior engineers.
+**Participate** in product design. **Coach** newbies and junior engineers.
 
 **Troubleshoot** issues and collaborate with 3rd party staffs to resolve issues or find solutions to limitations.
 
@@ -132,10 +146,10 @@ Create **Handy Community**, the first community of user-generated contents for m
 
 ## Hobbies
 
-Hackintosh: Don’t you love macOS? As a Mac enthusiast, I enjoy making it run on non-Apple PC/laptop.
+Hackintosh: Don’t you love macOS? As a Mac enthusiast, I enjoy making it run on non-Apple desktop/laptop.
 
 ### Reverse Engineer
-Interested in reversing web APIs.
+Interested in reversing web APIs. Build streaming APIs, such as IPTV, HTTP/HLS streaming, etc. and use it for [Movian](https://movian.tv/) plugins.
 
 ### Embedded Linux
 Passionate in Linux, especially embedded systems. I love exploring all kinds of embedded devices, from SBC (rPi, udoo), NAS to WiFi routers.
@@ -153,9 +167,9 @@ English: Fluent
 
 ## Personal
 
-Birth date: 16 June 1983
+Birth year: 1983
 
 Marital: Single
 
 
-<br/>Last updated: Aug 2019<br/><br/>
+<br/>Last updated: Feb 2022<br/><br/>
