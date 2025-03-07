@@ -3,7 +3,7 @@ layout: cv
 title: Hung Nguyen's CV
 ---
 # Nguyen Viet Hung
-Senior Software Developer
+Technical Lead
 
 Le Thuc Hoach, Tan Quy Ward<br/>
 Tan Phu Dist, HCMC, Vietnam<br/>
@@ -35,7 +35,10 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 
 ## Experience
 
-`2019-present`
+`2022-present`
+**Technical Lead**, *GFT Vietnam*, HCMC, Vietnam.
+
+`2019-2022`
 **Principal Software Engineer**, *FabFitFun*, Los Angeles, CA (remote).
 
 `2016-2019`
@@ -63,25 +66,37 @@ Tan Phu Dist, HCMC, Vietnam<br/>
 **Developer, Senior Developer, Team Leader**, *Mobile Solution Services., Ltd*, HCMC, Vietnam.
 
 ## Responsibilities
-Develop **Kafka-based apps** to consume moderate traffic of events.
+Designed and developed a **CRM system** with advanced authorization controls for multiple teams of Relationship Managers (RMs) at **Singapore's largest bank**. The system enabled efficient management of customer profiles, financial prosperity tracking, and customer support, including request handling and escalation.
 
-Maintain **REST APIs** with fairly complicated ecommerce business logic.
+Built a robust **GIRO payment system** for Singapore's leading digital bank, ensuring high accuracy, scalability, and fault tolerance for batch payment processing.
 
-**Participate** in product design.
+Contributed to the Onboarding team responsible for streamlining **MSME (business) customer onboarding**, including **eKYC and eKYB** processes, for a newly established digital bank in Singapore.
 
-**Monitor** production environment and jump in when issues arise.
+Engaged in the discovery phase of a **next-generation digital core banking** system for a Cambodian bank, analyzing requirements and defining foundational system capabilities.
 
-Develop a Java-based cronjob tool, powered by **[JobRunr](https://www.jobrunr.io/)**, combining with Guice, for a clean & decoupled design.
+### FabFitFun
+Developed **Kafka-based applications** to process a moderate volume of event-driven data.
+
+Maintained and enhanced **REST APIs**, implementing complex eCommerce business logic.
+
+**Contributed** to product design discussions, providing insights on technical feasibility and scalability.
+
+**Monitored** the production environment, proactively identifying and resolving issues to ensure system stability.
+
+Designed and implemented a Java-based cron job system using **[JobRunr](https://www.jobrunr.io/)** and Guice, ensuring a clean, decoupled architecture.
 
 ### Treasure Data
-Build **Data Connector** to integrate with hundreds of platforms, from Marketing services like Facebook Ads, Google Ads, to Data platforms, such as Tableau and Microsoft PowerBI.
-- \- Develop [Embulk](https://embulk.org) plugins in Java and Ruby.
+Built **Data Connectors** to integrate with hundreds of platforms, including marketing services (e.g., Facebook Ads, Google Ads) and data platforms (e.g., Tableau, Microsoft Power BI).  
 
-**Participate** in product design. **Coach** newbies and junior engineers.
+- \- Developed **[Embulk](https://embulk.org/)** plugins in Java and Ruby to streamline data ingestion.  
 
-**Troubleshoot** issues and collaborate with 3rd party staffs to resolve issues or find solutions to limitations.
+**Contributed** to product design, balancing scalability and maintainability.  
 
-Maintain **[Data Mart](https://panoply.io/data-warehouse-guide/data-mart-vs-data-warehouse/)** platform, involving setup PostgreSQL and Redshift by **Ruby and Terraform**, add monitors using Datadog.
+**Mentored** junior engineers, guiding them on best practices and technical implementations.  
+
+**Diagnosed and resolved** integration issues in collaboration with third-party teams, ensuring seamless data flow.  
+
+Maintained the **[Data Mart](https://panoply.io/data-warehouse-guide/data-mart-vs-data-warehouse/)** platform, managing PostgreSQL and Redshift setups using **Ruby and Terraform**, and implementing monitoring with Datadog.  
 
 ### Zen Marketing
 Build **Data Importers** to collect and aggregate advertising data from multiple Data Sources, using various methods, from **Web scrapers**, **API consumers** to **Email importer**.
@@ -142,19 +157,16 @@ Create **Handy Community**, the first community of user-generated contents for m
 **Consolation Prize, Programming**, *National excellent student*, VN.
 
 `1999`
-**Bronze medal, Programming**, *Olympic Contest*, Da Nang, VN.
+**Bronze medal, Programming**, *Olympic Student Contest*, Da Nang, VN.
 
 ## Hobbies
+Passionate about macOS and the challenge of running it on non-Apple hardware. Enjoy building and optimizing Hackintosh setups for desktops and laptops.
 
-Hackintosh: Don’t you love macOS? As a Mac enthusiast, I enjoy making it run on non-Apple desktop/laptop.
-
-### Reverse Engineer
-Interested in reversing web APIs. Build streaming APIs, such as IPTV, HTTP/HLS streaming, etc. and use it for [Movian](https://movian.tv/) plugins.
+### Reverse Engineering
+Enthusiastic about analyzing and reverse-engineering web APIs. Developed streaming solutions, including IPTV and HTTP/HLS streaming, and integrated them into platforms like [Movian](https://movian.eu/) through custom plugins.
 
 ### Embedded Linux
-Passionate in Linux, especially embedded systems. I love exploring all kinds of embedded devices, from SBC (rPi, udoo), NAS to WiFi routers.
-
-Maximize functionalities, adding new features to embedded devices.
+Deeply interested in Linux, particularly embedded systems. Enjoy working with a variety of embedded devices, including SBCs (Raspberry Pi, UDOO), NAS systems, and WiFi routers. Focus on maximizing functionality and extending capabilities by adding new features.
 
 ### Entertainment
 A cinephile and an audiophile.
@@ -172,4 +184,4 @@ Birth year: 1983
 Marital: Single
 
 
-<br/>Last updated: Feb 2022<br/><br/>
+<br/>Last updated: Mar 2025<br/><br/>
